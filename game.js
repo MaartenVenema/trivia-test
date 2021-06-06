@@ -13,6 +13,7 @@
 exports = typeof window !== "undefined" && window !== null ? window : global;
 
 exports.Game = function () {
+  
   // Set the max amount of players
   const maxNumOfPlayers = 6;
 
