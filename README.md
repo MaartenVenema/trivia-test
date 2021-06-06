@@ -1,7 +1,7 @@
 Setup
 =====================
 
-Install Jasmmine
+Install Jasmine
 
 	npm install
 	
